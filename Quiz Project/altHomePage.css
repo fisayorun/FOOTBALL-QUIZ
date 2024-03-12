@@ -1,0 +1,111 @@
+:root{
+    font-size: 62.5%;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: rgb(105, 5, 5);
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 1rem;
+}
+
+h1{
+    font-size: 6.4rem;
+    margin-bottom: 5rem;
+    font-weight: 500rem;
+    
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 700rem;
+    color: aliceblue;
+    
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    margin: 0 auto;
+    padding: 2rem;
+    
+    
+}
+
+.video-bg{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+   
+}
+
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    font-size: 2.0rem;
+    padding: 1rem;
+    width: 20rem;
+    text-align: center;
+    border: 0.5rem solid rgb(105, 5, 5);
+    margin-bottom: 1rem;
+    text-decoration: none;
+    
+}
+
+.button:hover{
+    background-color: rgb(0, 0, 0);
+    box-shadow: 
+    0 0.4rem 1.4rem 0 #000;
+    transform: translateY(-0.1rem);
+    transition: 0.5s;
+    color: aliceblue;
+
+}
+
+.button[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+/* FORMS */
+
+form{
+   width: 100%;
+   display: flex;
+   flex-direction: column; 
+   align-items: center;
+}
+
+input{
+    margin-bottom: 1rem;
+    width: 20rem;
+    padding: 1.5rem;
+    font-size: 1.8rem;
+    border: none;
+    box-shadow: 0 0.1rem 1.4rem;
+
+}
+
+input::placeholder {
+    color: #000;
+}
+

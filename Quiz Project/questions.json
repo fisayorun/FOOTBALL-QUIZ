@@ -1,0 +1,167 @@
+[
+    {
+        "question": "What video tool is the referee using?",
+        "choice1": "VHS",
+        "choice2": "VAT",
+        "choice3": "VAR",
+        "choice4": "BVB",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/ref-var.jpg')"
+    },
+    {
+        "question": "What happens to a player when they're shown a red card?",
+        "choice1": "RECEIVES A BONUS",
+        "choice2": "SENT OFF",
+        "choice3": "SUBSTITUTED",
+        "choice4": "AWARDED A PENALTY KICK",
+        "answer": 2,
+        "image": "url('/WK6 JS PROJECT/Images/ref-redcard.jpg')"
+    },
+    {
+        "question": "How many countries have won the FIFA World Cup?",
+        "choice1": "FIVE",
+        "choice2": "TEN",
+        "choice3": "TWELVE",
+        "choice4": "EIGHT",
+        "answer": 4,
+        "image": "url('/WK6 JS PROJECT/Images/messi-wc.webp')"
+    },
+    {
+        "question": "Which country hosted the 1992 AFC Asian Cup?",
+        "choice1": "LEBANON",
+        "choice2": "MALAYSIA",
+        "choice3": "JAPAN",
+        "choice4": "INDIA",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/asian.jpg')"
+    },
+    {
+        "question": "What type of kick is the player about to perform?",
+        "choice1": "CORNER KICK",
+        "choice2": "FREE KICK",
+        "choice3": "PENALTY KICK",
+        "choice4": "IN-DIRECT FREE KICK",
+        "answer": 1,
+        "image": "url('/WK6 JS PROJECT/Images/corner-kick.jpeg')"
+    },
+    {
+        "question": "How many Father-Son duos have played in FIFA World Cups?",
+        "choice1": "ONE",
+        "choice2": "THREE",
+        "choice3": "SIX",
+        "choice4": "ZERO",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/father-son.jpg')"
+    },
+    {
+        "question": "What is this football game called and also known as?",
+        "choice1": "FUN FOOTBALL AKA FUNBALL",
+        "choice2": "TABLE FOOTBALL AKA FOOSBALL",
+        "choice3": "SOCCER RUSH AKA SOCRUSH",
+        "choice4": "TOY FOOTBALL AKA TOYBALL",
+        "answer": 2,
+        "image": "url('/WK6 JS PROJECT/Images/football-game.jpg')"
+    },
+    {
+        "question": "How many FIFA Women's World Cup have been hosted?",
+        "choice1": "FOURTEEN",
+        "choice2": "SEVEN",
+        "choice3": "ELEVEN",
+        "choice4": "NINE",
+        "answer": 4,
+        "image": "url('/WK6 JS PROJECT/Images/hijab.jpg')"
+    },
+    {
+        "question": "How many Africa Cup of Nations titles has Nigeria won?",
+        "choice1": "THREE",
+        "choice2": "ZERO",
+        "choice3": "FOUR",
+        "choice4": "FIVE",
+        "answer": 1,
+        "image": "url('/WK6 JS PROJECT/Images/nigeria.jpg')"
+    },
+    {
+        "question": "Which year did Marcus Rashford make his first team debut appearance?",
+        "choice1": "1999",
+        "choice2": "2016",
+        "choice3": "2015",
+        "choice4": "2008",
+        "answer": 2,
+        "image": "url('/WK6 JS PROJECT/Images/rashford.jpeg')"
+    },
+    {
+        "question": "Which of these football stadiums has the largest capacity?",
+        "choice1": "SANTIAGO BERNABEU",
+        "choice2": "MARACANA STADIUM",
+        "choice3": "OLD TRAFFORD",
+        "choice4": "SIGNAL IDUNA PARK",
+        "answer": 4,
+        "image": "url('/WK6 JS PROJECT/Images/stadia.jpg')"
+    },
+    {
+        "question": "Which of these players has won the most trophies?",
+        "choice1": "DANI ALVES",
+        "choice2": "HOSSAM HASSAN",
+        "choice3": "LIONEL MESSI",
+        "choice4": "HOSSAM ASHOUR",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/winners.jpg')"
+    },
+    {
+        "question": "Which of these players has the most Ballon d'Or Feminin awards?",
+        "choice1": "SAM KERR",
+        "choice2": "MARTA",
+        "choice3": "ALEXIA PUTELLAS",
+        "choice4": "MEGAN RAPINOE",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/woman.jpg')"
+    },
+    {
+        "question": "Who is currently the youngest goal scorer in Bundesliga history?",
+        "choice1": "YOUSSOUFA MOUKOKO",
+        "choice2": "FLORIAN WIRTZ",
+        "choice3": "GIOVANNI REYNA",
+        "choice4": "FRANZ BECKENBAUER",
+        "answer": 1,
+        "image": "url('/WK6 JS PROJECT/Images/young.jpg')"
+    },
+    {
+        "question": "Which iconic phrase is used to describe football?",
+        "choice1": "THE ENJOYABLE GAME",
+        "choice2": "THE BEAUTIFUL GAME",
+        "choice3": "THE EXHAUSTING GAME",
+        "choice4": "THE CRAZY GAME",
+        "answer": 2,
+        "image": "url('/WK6 JS PROJECT/Images/pitch.jpg')"
+    },
+    {
+        "question": "How many Fifa World Cups has Brazil won?",
+        "choice1": "FOUR",
+        "choice2": "TWO",
+        "choice3": "SEVEN",
+        "choice4": "FIVE",
+        "answer": 4,
+        "image": "url('/WK6 JS PROJECT/Images/brazil.jpg')"
+    },
+    {
+        "question": "Who was playing in goal against Real Madrid in the 2002 UEFA Champions league final?",
+        "choice1": "OLIVER KAHN",
+        "choice2": "JERZY DUDEK ",
+        "choice3": "HANS-JORG BUTT",
+        "choice4": "SANTIAGO CANIZARES",
+        "answer": 3,
+        "image": "url('/WK6 JS PROJECT/Images/gk.jpg')"
+    },
+    {
+        "question": "When does the traditional european football season end?",
+        "choice1": "SUMMER",
+        "choice2": "WINTER ",
+        "choice3": "SPRING",
+        "choice4": "AUTUMN",
+        "answer": 1,
+        "image": "url('/WK6 JS PROJECT/Images/season.jpg')"
+    }
+
+    
+
+]

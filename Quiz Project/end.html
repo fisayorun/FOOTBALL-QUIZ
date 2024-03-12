@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./altHomePage.css">
+    <link rel="stylesheet" href="./end.css">
+    <title>Well Done!</title>
+</head>
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <h1 id="finalScore"></h1>
+            <form>
+                <input 
+                type="text" 
+                name="username" 
+                id="username" 
+                placeholder="username"
+                />
+                <button 
+                type="submit" 
+                class="button" 
+                id="saveScoreBtn"
+                onclick="saveHighScore(event)"
+                disabled
+                >
+                Save</button>
+            </form>
+            <a href="./play.html" class="button">Play Again</a>
+            <a href="./index.html" class="button">Go Home</a>
+        </div>
+    </div>
+
+    <video autoplay muted loop class="video-bg">
+        <source src="../Videos/football-bg.mp4" type="video/mp4">
+    </video>
+ <script src="./end.js"></script>   
+</body>
+</html>
